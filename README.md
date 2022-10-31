@@ -13,5 +13,5 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 # Run
 Open folder in new terminal/cmd line  
-`node mytimes.js`
+`node mitimes.js`
 
