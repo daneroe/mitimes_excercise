@@ -8,10 +8,10 @@ Pre-interview test
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 
 ## Packages
-### Axios
-npm install axios
+** Axios **
+`npm install axios`
 
-## Run
+** Run **
 Open folder in new terminal/cmd line
-node mytimes.js
+`node mytimes.js`
 
