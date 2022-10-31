@@ -11,7 +11,7 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 **Axios: HTTP Client**  
 `npm install axios`  
 
-**Run**
+# Run
 Open folder in new terminal/cmd line  
 `node mytimes.js`
 
