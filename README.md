@@ -1,7 +1,7 @@
 # mitimes_excercise
 Pre-interview test.
 
-# Dependencies
+# Installation/Dependencies
 
 ## Runtime
 **Node JS and npm** 
