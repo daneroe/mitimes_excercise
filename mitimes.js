@@ -15,6 +15,7 @@ const post_body = {
     final_attempt: true
 }
 
+// Header value should be called 'token'!
 const header_config = (header_value) => {
     return config = { headers: { Authorization: header_value } }
 }
