@@ -13,12 +13,12 @@ const post_body = {
         why_should_you_hire_me: `Sincere interest in learning your stack and becoming more 'Functional Focused'. Very attracted to the product with my previous Timesheets experience but also very impressed at your willingness to use a tech stack that is perhaps less well understood, but a better solution to the requirements. This culture is one I would like to be a part of :)`,
     },
     final_attempt: true
-}
+};
 
 // Header value should be called 'token'!
 const header_config = (header_value) => {
     return config = { headers: { Authorization: header_value } }
-}
+};
 
 // Using axios for HTTP request and promise chaining the token response into a new post request.
 axios.get(token_url)
